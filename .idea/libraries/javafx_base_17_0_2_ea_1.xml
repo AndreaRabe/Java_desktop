@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javafx-base-17.0.2-ea+1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../openjfx/javafx_sdk/javafx-base-17.0.2-ea+1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../openjfx/javafx_sdk/javafx-graphics-17.0.2-ea+1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../openjfx/javafx_sdk/javafx-swing-17.0.2-ea+1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
